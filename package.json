@@ -1,0 +1,15 @@
+{
+  "name": "electron-doctor",
+  "version": "1.0.0",
+  "description": "doctor app in electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "ELECTRON_DISABLE_SECURITY_WARNINGS=true electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.10"
+  }
+}
