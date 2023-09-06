@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^22.2.0"
+    "electron": "^22.3.21"
   },
   "dependencies": {
     "uuid": "^3.3.3"
